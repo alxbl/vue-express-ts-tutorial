@@ -1,0 +1,28 @@
+{
+  "name": "vue-express-ts-tutorial",
+  "version": "1.0.0",
+  "description": "An end-to-end SPA tutorial.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alxbl/vue-express-ts-tutorial.git"
+  },
+  "keywords": [
+    "vuejs",
+    "express",
+    "expressjs",
+    "typescript",
+    "tutorial",
+    "webpack",
+    "spa"
+  ],
+  "author": "Alexandre Beaulieu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alxbl/vue-express-ts-tutorial/issues"
+  },
+  "homepage": "https://github.com/alxbl/vue-express-ts-tutorial#readme"
+}
