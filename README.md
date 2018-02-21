@@ -44,3 +44,7 @@ the commit history and diffing the files as you follow along the tutorials.
   completionist.
 - Pull Requests are welcome for minor fixes or for comment clarification.
 
+
+## Series
+
+- [Part 1: Project Setup][https://segfault.me/2018/02/21/anatomy-of-a-modern-spa-part-i/]
