@@ -24,5 +24,15 @@
   "bugs": {
     "url": "https://github.com/alxbl/vue-express-ts-tutorial/issues"
   },
-  "homepage": "https://github.com/alxbl/vue-express-ts-tutorial#readme"
+  "homepage": "https://github.com/alxbl/vue-express-ts-tutorial#readme",
+  "devDependencies": {
+    "express": "^4.16.2",
+    "ts-loader": "^3.5.0",
+    "typescript": "^2.7.2",
+    "vuejs": "^3.0.1",
+    "webpack": "^3.11.0",
+    "webpack-dev-middleware": "^2.0.5",
+    "webpack-hot-middleware": "^2.21.0",
+    "webpack-hot-server-middleware": "^0.4.0"
+  }
 }
